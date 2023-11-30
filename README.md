@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-Explore my Data Analytics portfolio, a compilation of class assignments that demonstrates my skills and commitment to the field. This repository reflects my journey in mastering data analysis techniques and showcases practical applications through hands-on assignments.
+Welcome to my Data Analytics portfolio, a compilation of class assignments that demonstrates my skills and commitment to the field. This repository reflects my journey in mastering data analysis techniques and showcases practical applications through hands-on assignments.
 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/156i6WVT59WAogjTkXF4WaY1XfTUDQ-Eq)
